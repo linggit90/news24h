@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://todayshottrends.info/`
+					`https://news24h365s.000webhostapp.com/chuyen-di-dinh-menh-khien-nguoi-lai-xe-bi-di-sung-vao-dau-p1-vi-khach-bi-an/`
 				}`,
 			},
 		};
