@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://todayshottrends.info/`
+					`https://todayshottrends.info/how-to-make-cakes-with-a-rice-cooker/`
 				}`,
 			},
 		};
